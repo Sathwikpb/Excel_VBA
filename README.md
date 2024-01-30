@@ -7,7 +7,7 @@ This VBA script automates the generation of dates within the range of January 20
 ## Usage
 
 1. **Download and Installation:**
-   - Download the [`date_generator.vba`](link-to-your-file) file.
+   - Download the [`schedule.vba`](link-to-your-file) file.
    - Open your Excel workbook.
    - Press `ALT` + `F11` to open the VBA editor.
    - Insert a new module and paste the script.
